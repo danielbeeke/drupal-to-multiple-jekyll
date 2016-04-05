@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Hergebruik van Drupal content in jekyll sites, aan de hand van nbvt.nl",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "danielbeeke",
+    "githubRepository": "drupal-to-multiple-jekyll"
+  }
+}

@@ -1,0 +1,45 @@
+[
+    "index.md",
+    "over-mij.md",
+    {
+        "filename": "studio-fonkel-logo.md",
+        "attr": {
+            "data-background": "white"
+        }
+    },
+    "over-studio-fonkel.md",
+    {
+        "filename": "logo-nbvt.md",
+        "attr": {
+            "data-background": "white"
+        }
+    },
+    "over-de-nbvt.md",
+    {
+        "attr": {
+            "data-background-iframe": "https://nbvt.nl"
+        }
+    },
+    "introductie-klantvraag.md",
+    {
+        "attr": {
+            "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
+        }
+    },
+    "de-gekozen-oplossingsrichting-en-alternatieven.md",
+    "drupal-jekyll.md",
+    "alternatieven.md",
+    "architectuur.md",
+    "drupal-modules.md",
+    "jse.md",
+    "entity2md.md",
+    "specifieke-nbvt-microsites-module.md",
+    "jekyll-grunt-en-wat-php-scriptjes.md",
+    "wat-is-jekyll.md",
+    "wat-is-grunt.md",
+    "een-jekyll-build-server-github-pages.md",
+    "github-scripts-in-nbvt-microsites.md",
+    "de-jekyll-build-server.md",
+    "uitdagingen.md",
+    "retrospective.md"
+]
