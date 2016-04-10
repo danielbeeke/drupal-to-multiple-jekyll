@@ -32,10 +32,49 @@
     "architectuur.md",
     "drupal-modules.md",
     "jse.md",
+    "jse-hook.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/admin/structure/jse"
+        }
+    },
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/admin/structure/jse/manage/projects"
+        }
+    },
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/admin/structure/types/manage/nbvt_project/display/jse_json"
+        }
+    },
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
+        }
+    },
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
+        }
+    },
     "entity2md.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/admin/structure/types/manage/nbvt_blog/display/entity2md"
+        }
+    },
+    "entity2md-voorbeeld.md",
     "specifieke-nbvt-microsites-module.md",
     "jekyll-grunt-en-wat-php-scriptjes.md",
     "wat-is-jekyll.md",
+    "jekyll-collection.md",
     "wat-is-grunt.md",
     "een-jekyll-build-server-github-pages.md",
     "github-scripts-in-nbvt-microsites.md",

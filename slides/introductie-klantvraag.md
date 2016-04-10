@@ -1,4 +1,4 @@
-##  De initiële klantvraag
+##  De klantvraag
 
 * 2+ kleine thema website's
 * Hergebruik van nieuws, blogs, projecten
