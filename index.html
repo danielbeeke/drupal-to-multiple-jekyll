@@ -98,7 +98,7 @@
                 
                     
                         
-    <section data-markdown="slides/introductie-klantvraag.md"></section>
+    <section data-markdown="slides/interactive.svg"></section>
 
 
                     
@@ -106,7 +106,15 @@
                 
                     
                         
-    <section data-background-iframe="http://kozijnenvanhout.nl/voordelen/" ></section>
+    <section data-markdown="slides/wat-is-jekyll.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/introductie-klantvraag.md"></section>
 
 
                     
@@ -162,7 +170,71 @@
                 
                     
                         
+    <section data-markdown="slides/jse-hook.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/jse" ></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/jse/manage/projects" ></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/types/manage/nbvt_project/display/jse_json" ></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/config/system/jse" ></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl" ></section>
+
+
+                    
+                    
+                
+                    
+                        
     <section data-markdown="slides/entity2md.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/types/manage/nbvt_blog/display/entity2md" ></section>
+
+
+                    
+                    
+                
+                    
+                        
+    <section data-markdown="slides/entity2md-voorbeeld.md"></section>
 
 
                     
@@ -186,7 +258,7 @@
                 
                     
                         
-    <section data-markdown="slides/wat-is-jekyll.md"></section>
+    <section data-markdown="slides/jekyll-collection.md"></section>
 
 
                     
@@ -226,6 +298,14 @@
                 
                     
                         
+    <section data-background-color="white" data-background-iframe="http://kozijnenvanhout.nl/voordelen/" ></section>
+
+
+                    
+                    
+                
+                    
+                        
     <section data-markdown="slides/uitdagingen.md"></section>
 
 
@@ -256,17 +336,17 @@
             history: true,
             center: true,
 
-            transition: 'convex', // none/fade/slide/convex/concave/zoom
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
 
             // Optional reveal.js plugins
             dependencies: [
               { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-              { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-              { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
-              { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
-              { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
+                { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
+                { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+                { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
             ]
           });
 
