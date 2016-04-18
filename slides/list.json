@@ -20,12 +20,9 @@
             "data-background-iframe": "https://nbvt.nl"
         }
     },
+    "interactive.svg",
+    "wat-is-jekyll.md",
     "introductie-klantvraag.md",
-    {
-        "attr": {
-            "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
-        }
-    },
     "de-gekozen-oplossingsrichting-en-alternatieven.md",
     "drupal-jekyll.md",
     "alternatieven.md",
@@ -73,12 +70,17 @@
     "entity2md-voorbeeld.md",
     "specifieke-nbvt-microsites-module.md",
     "jekyll-grunt-en-wat-php-scriptjes.md",
-    "wat-is-jekyll.md",
     "jekyll-collection.md",
     "wat-is-grunt.md",
     "een-jekyll-build-server-github-pages.md",
     "github-scripts-in-nbvt-microsites.md",
     "de-jekyll-build-server.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
+        }
+    },
     "uitdagingen.md",
     "retrospective.md"
 ]
