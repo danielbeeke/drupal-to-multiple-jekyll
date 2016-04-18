@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d3c101-c897-4ef5-ae9e-8af2f34eb44a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slides/blueprint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/architectuur.md" afterPath="$PROJECT_DIR$/slides/architectuur.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/drupal-jekyll.md" afterPath="$PROJECT_DIR$/slides/drupal-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/introductie-klantvraag.md" afterPath="$PROJECT_DIR$/slides/introductie-klantvraag.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/list.json" afterPath="$PROJECT_DIR$/slides/list.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/over-de-nbvt.md" afterPath="$PROJECT_DIR$/slides/over-de-nbvt.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/wat-is-jekyll.md" afterPath="$PROJECT_DIR$/slides/wat-is-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/_index.html" afterPath="$PROJECT_DIR$/templates/_index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slides/interactive.svg" afterPath="$PROJECT_DIR$/slides/interactive.svg" />
     </list>
     <ignored path="drupal-to-multiple-jekyll.iws" />
     <ignored path=".idea/workspace.xml" />
