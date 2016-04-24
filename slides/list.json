@@ -31,7 +31,7 @@
         "attr": {
             "data-background-color": "white",
             "data-background": "resources/channel-picker.png",
-            "data-background-size": "contain"
+            "data-background-size": "auto"
         }
     },
     "drupal-modules.md",
