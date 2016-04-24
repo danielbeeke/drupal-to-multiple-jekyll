@@ -1,5 +1,5 @@
 ##  Jse
 
-* Een API laag
+* API laag
 * View mode naar JSON
-* 1 jse pad mag entities met verschillende types/bundles bevatten
+* 1 jse pad, verschillende<br>entity types en/of bundels

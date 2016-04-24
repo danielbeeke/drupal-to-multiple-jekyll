@@ -20,13 +20,20 @@
             "data-background-iframe": "https://nbvt.nl"
         }
     },
-    "interactive.svg",
     "wat-is-jekyll.md",
+    "wat-is-jekyll-2.md",
     "introductie-klantvraag.md",
     "de-gekozen-oplossingsrichting-en-alternatieven.md",
     "drupal-jekyll.md",
     "alternatieven.md",
     "architectuur.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/channel-picker.png",
+            "data-background-size": "contain"
+        }
+    },
     "drupal-modules.md",
     "jse.md",
     "jse-hook.md",
@@ -81,6 +88,7 @@
             "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
         }
     },
+    "interactive.svg",
     "uitdagingen.md",
     "retrospective.md"
 ]
