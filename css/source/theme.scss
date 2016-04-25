@@ -53,6 +53,14 @@ h1, h2, h3, h4 {
 	font-weight: 100 !important;
 }
 
+.reveal .progress {
+	height: 20px;
+}
+
+.reveal .controls {
+	bottom: 30px;
+}
+
 #nbvt-logo {
 	width: 600px;
 }
@@ -74,3 +82,8 @@ h1, h2, h3, h4 {
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+
+.reveal .slides section .fragment.highlight-current-blue.current-fragment,
+.reveal .slides section .fragment.highlight-blue.visible {
+	color: $linkColor;
+}

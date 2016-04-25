@@ -1,5 +1,6 @@
 [
     "index.md",
+    "inhoudsopgave.md",
     "over-mij.md",
     {
         "filename": "studio-fonkel-logo.md",
@@ -22,19 +23,17 @@
     },
     "wat-is-jekyll.md",
     "wat-is-jekyll-2.md",
+    "inhoudsopgave-2.md",
     "introductie-klantvraag.md",
+    "ons-idee.md",
     "de-gekozen-oplossingsrichting-en-alternatieven.md",
     "drupal-jekyll.md",
     "alternatieven.md",
+    "inhoudsopgave-3.md",
+    "demo.md",
+    "inhoudsopgave-4.md",
     "architectuur.md",
-    {
-        "attr": {
-            "data-background-color": "white",
-            "data-background": "resources/channel-picker.png",
-            "data-background-size": "auto"
-        }
-    },
-    "drupal-modules.md",
+    "drupal-data.md",
     "jse.md",
     "jse-hook.md",
     {
@@ -67,6 +66,7 @@
             "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
         }
     },
+    "drupal-data-2.md",
     "entity2md.md",
     {
         "attr": {
@@ -75,7 +75,15 @@
         }
     },
     "entity2md-voorbeeld.md",
+    "drupal-data-3.md",
     "specifieke-nbvt-microsites-module.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/channel-picker.png",
+            "data-background-size": "auto"
+        }
+    },
     "jekyll-grunt-en-wat-php-scriptjes.md",
     "jekyll-collection.md",
     "wat-is-grunt.md",

@@ -1,3 +1,5 @@
-##  Specifieke nbvt_microsites module
+##  NBvT microsites modules
 
-This is a new Markdown slide
+- Velden van de microsites
+- De kanaalkiezer voor blogs en nieuws
+- JSE implementaties en wat oppoets functies
