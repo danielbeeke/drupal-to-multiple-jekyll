@@ -1,3 +1,5 @@
-##  Jekyll, grunt en wat php scriptjes
+##  Grunt build
 
-This is a new Markdown slide
+- Compileert de sass
+- Download data en .md's uit de API
+- Bouwt Jekyll

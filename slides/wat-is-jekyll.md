@@ -1,6 +1,6 @@
-##  Wat is jekyll
+# Jekyll?
 
-* Statische site generator
-* Markdown bestanden als content
-* Liquid template engine
-* Lage instap, eenvoudig te leren
+<aside class="notes">
+Wie kent Jekyll?
+Wie kent sites in Jekyll?
+</aside>

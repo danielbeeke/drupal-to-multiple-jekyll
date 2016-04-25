@@ -1,5 +1,5 @@
 ##  Alternatieven
 
-* Spaces, og, purl (open atrium)
+* Organic groups & purl
 * Domain module
 * Custom in Drupal

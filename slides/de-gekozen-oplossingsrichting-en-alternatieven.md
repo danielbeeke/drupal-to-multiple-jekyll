@@ -1,1 +1,1 @@
-##  De gekozen oplossingsrichting en alternatieven
+##  Onze oplossingsrichting & alternatieven

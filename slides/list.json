@@ -1,5 +1,6 @@
 [
     "index.md",
+    "inhoudsopgave.md",
     "over-mij.md",
     {
         "filename": "studio-fonkel-logo.md",
@@ -20,14 +21,19 @@
             "data-background-iframe": "https://nbvt.nl"
         }
     },
-    "interactive.svg",
     "wat-is-jekyll.md",
+    "wat-is-jekyll-2.md",
+    "inhoudsopgave-2.md",
     "introductie-klantvraag.md",
+    "ons-idee.md",
     "de-gekozen-oplossingsrichting-en-alternatieven.md",
     "drupal-jekyll.md",
     "alternatieven.md",
+    "inhoudsopgave-3.md",
+    "demo.md",
+    "inhoudsopgave-4.md",
     "architectuur.md",
-    "drupal-modules.md",
+    "drupal-data.md",
     "jse.md",
     "jse-hook.md",
     {
@@ -54,12 +60,14 @@
             "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
         }
     },
+    "jse-url.md",
     {
         "attr": {
             "data-background-color": "white",
             "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
         }
     },
+    "drupal-data-2.md",
     "entity2md.md",
     {
         "attr": {
@@ -68,10 +76,33 @@
         }
     },
     "entity2md-voorbeeld.md",
+    "drupal-data-3.md",
     "specifieke-nbvt-microsites-module.md",
-    "jekyll-grunt-en-wat-php-scriptjes.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/channel-picker.png",
+            "data-background-size": "auto"
+        }
+    },
+    "hoe-dan-2.md",
+    "jekyll-list.md",
     "jekyll-collection.md",
+    "jekyll-list-2.md",
+    "liquid-over.md",
+    "liquid.md",
+    "liquid-over-2.md",
+    "jekyll-list-3.md",
+    "liquid-filter.md",
     "wat-is-grunt.md",
+    "jekyll-grunt-en-wat-php-scriptjes.md",
+    "hoe-dan-3.md",
+    "drupal-events-flow.md",
+    "drupal-hooks.md",
+    "drupal-events-flow-2.md",
+    "github-api.md",
+    "drupal-events-flow-3.md",
+    "skeleton.md",
     "een-jekyll-build-server-github-pages.md",
     "github-scripts-in-nbvt-microsites.md",
     "de-jekyll-build-server.md",
@@ -81,6 +112,7 @@
             "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
         }
     },
+    "interactive.svg",
     "uitdagingen.md",
     "retrospective.md"
 ]
