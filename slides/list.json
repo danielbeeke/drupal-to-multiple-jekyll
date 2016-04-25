@@ -60,6 +60,7 @@
             "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
         }
     },
+    "jse-url.md",
     {
         "attr": {
             "data-background-color": "white",
@@ -86,14 +87,15 @@
     },
     "hoe-dan-2.md",
     "jekyll-list.md",
-    "wat-is-grunt.md",
-    "jekyll-grunt-en-wat-php-scriptjes.md",
-    "jekyll-list-2.md",
     "jekyll-collection.md",
+    "jekyll-list-2.md",
     "liquid-over.md",
     "liquid.md",
     "liquid-over-2.md",
+    "jekyll-list-3.md",
     "liquid-filter.md",
+    "wat-is-grunt.md",
+    "jekyll-grunt-en-wat-php-scriptjes.md",
     "hoe-dan-3.md",
     "drupal-hooks.md",
     "een-jekyll-build-server-github-pages.md",

@@ -1,3 +1,9 @@
+## Liquid filters
+
+```
+<div class="email">{{ author.email | spamspan }}</div>
+```
+
 ```
 module Jekyll
   module SpamSpanFilter
