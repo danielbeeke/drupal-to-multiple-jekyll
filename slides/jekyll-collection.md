@@ -1,4 +1,5 @@
 ## Jekyll concepten
 
-* Collections == Content types
-* Front matter == Fields
+- Collections = Node types
+- .md bestand = node
+- front matter = Velden

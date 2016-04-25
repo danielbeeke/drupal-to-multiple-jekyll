@@ -1,3 +1,7 @@
 ##  Wat is grunt
 
-This is a new Markdown slide
+- Een taak uitvoerder
+- Bij bewerken van css:
+- Doe dit, en dan dat.
+- Geschreven in nodejs
+- Veel plugins
