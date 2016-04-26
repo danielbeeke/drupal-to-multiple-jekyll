@@ -23,14 +23,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="679.2897"
+     inkscape:cx="474.7897"
      inkscape:cy="453.19724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1416"
-     inkscape:window-x="1920"
+     inkscape:window-x="4480"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
@@ -800,7 +800,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bariol;-inkscape-font-specification:Bariol"
            y="726.2337"
            x="52.042019"
-           sodipodi:role="line">INCREASE BUILD NUMBER</tspan></text>
+           sodipodi:role="line">TRIGGER API DOWNLOAD</tspan></text>
       <rect
          style="opacity:1;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect5074-9"

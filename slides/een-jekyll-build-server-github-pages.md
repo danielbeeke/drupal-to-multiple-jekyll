@@ -1,3 +1,5 @@
-##  Een Jekyll build server, github pages
+##  Github pages
 
-This is a new Markdown slide
+- gh-pages branch
+- Git hooks
+- Vanilla jekyll builder
