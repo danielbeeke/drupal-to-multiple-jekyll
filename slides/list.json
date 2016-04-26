@@ -30,6 +30,12 @@
     "drupal-jekyll.md",
     "alternatieven.md",
     "inhoudsopgave-3.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
+        }
+    },
     "demo.md",
     "inhoudsopgave-4.md",
     "architectuur.md",
@@ -94,6 +100,7 @@
     "liquid-over-2.md",
     "jekyll-list-3.md",
     "liquid-filter.md",
+    "jekyll-list-4.md",
     "wat-is-grunt.md",
     "jekyll-grunt-en-wat-php-scriptjes.md",
     "hoe-dan-3.md",
@@ -103,16 +110,14 @@
     "github-api.md",
     "drupal-events-flow-3.md",
     "skeleton.md",
-    "een-jekyll-build-server-github-pages.md",
-    "github-scripts-in-nbvt-microsites.md",
-    "de-jekyll-build-server.md",
-    {
-        "attr": {
-            "data-background-color": "white",
-            "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
-        }
-    },
+    "hoe-dan-4.md",
+    "build-server-list.md",
     "interactive.svg",
+    "inhoudsopgave-5.md",
+    "achteraf-list.md",
     "uitdagingen.md",
-    "retrospective.md"
+    "achteraf-list-2.md",
+    "vragen.md",
+    "achteraf-list-3.md",
+    "links.md"
 ]

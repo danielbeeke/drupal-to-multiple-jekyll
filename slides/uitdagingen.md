@@ -1,3 +1,7 @@
 ##  Uitdagingen
 
-This is a new Markdown slide
+- Verborgen complexiteit
+- Git automatiseren
+- Veel schakels waar iets mis kan gaan
+- Debuggen
+- ... en de rest.
