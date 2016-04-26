@@ -5,4 +5,4 @@
 - Doe dit, en dan dat.
 - Geschreven in nodejs
 - Veel plugins
-- Niet standaard Jekyll, wij gebruiken: <br><a href="https://github.com/robwierzbowski/generator-jekyllrb">generator-jekyllrb</a>
+- Niet standaard Jekyll, wij gebruiken:<br>generator-jekyllrb
