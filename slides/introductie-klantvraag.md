@@ -1,10 +1,5 @@
 ##  De klantvraag
 
-* 2+ kleine thema website's
+* 2+ kleine thema websites
 * Hergebruik van nieuws, blogs, projecten
-* Exposeren van leden op een kaart
-
-<aside class="notes">
-    Put your speaker notes here.
-    You can see them pressing 's'.
-</aside>
+* Tonen van leden op een kaart

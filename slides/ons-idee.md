@@ -1,4 +1,4 @@
-##  Ons Idee
+##  Ons idee
 
 * Beheerbare microsites
 * Herbruikbare componentjes

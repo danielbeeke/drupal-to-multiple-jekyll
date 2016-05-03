@@ -2,7 +2,7 @@
 
 * De Nederlandse Branchevereniging<br>voor de Timmerindustrie
 * Innovatief met online ondersteuning voor leden
-* 9+ projecten al een samenwerking
+* Al meer dan 9 projecten een samenwerking
 
 <aside class="notes">
 * Leden login met verschillende benchmarks

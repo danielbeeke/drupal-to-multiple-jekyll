@@ -1,4 +1,4 @@
-## Achter af
+## Achteraf
 
 <ul>
 <li>Uitdagingen</li>
