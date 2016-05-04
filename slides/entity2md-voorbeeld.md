@@ -1,10 +1,12 @@
+### /node/239/markdown
+
 ```
 ---
 tags:
 - Techniek
 title: Houtskeletbouw, dat is toch helemaal niet brandveilig?
 image: https://nbvt.nl/sites/nbvt.nl/files/styles/microsite_header/public/blog-afbeeldingen/shutterstock_371781052.jpg?itok=Y8EGFNrx
-author: Anoushka Roelofzen
+author: Henk Jansen
 created: dinsdag, 5 april, 2016 - 11:34
 nid: "2921"
 ---

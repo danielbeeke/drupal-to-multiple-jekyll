@@ -43,6 +43,13 @@
     "architectuur.md",
     "drupal-data.md",
     "jse.md",
+    "jse-url.md",
+    {
+        "attr": {
+            "data-background-color": "white",
+            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
+        }
+    },
     "jse-hook.md",
     {
         "attr": {
@@ -65,14 +72,13 @@
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
+            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
         }
     },
-    "jse-url.md",
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
+            "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
         }
     },
     "drupal-data-2.md",

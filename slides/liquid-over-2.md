@@ -2,4 +2,5 @@
 
 - Lijkt op twig
 - Template taal is eenvoudig uitbreidbaar (bv met een spamspan filter)
-- Front matter selecteert de bovenliggende template
+- Je hebt filters: {{ user.name | lowercase }}
+- En tags: {{ include teaser.html }}
