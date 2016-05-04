@@ -1,4 +1,5 @@
 ##  entity2md
 
-* Entity naar markdown bestand met een front matter
-* Front matter wordt ingesteld met een view mode
+* .md bestand op /node/{nid}/markdown
+* Front matter middls een view mode
+* Content van .md is body veld
