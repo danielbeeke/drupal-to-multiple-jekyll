@@ -6,15 +6,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="700"
-   height="500"
    viewBox="0 0 700.00001 500.00001"
    id="svg5480"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="rekenkracht-2.svg">
   <defs
-     id="defs5482" />
+     id="defs5482">
+         <link href="/css/font.css" type="text/css" rel="stylesheet"
+               xmlns="http://www.w3.org/1999/xhtml"/>
+     </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"

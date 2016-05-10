@@ -47,38 +47,38 @@
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
+            "data-background-image": "resources/jse-output.png"
         }
     },
     "jse-hook.md",
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/structure/jse"
+            "data-background-image": "resources/jse-overview.png"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/structure/jse/manage/projects"
+            "data-background-image": "resources/jse-path.png"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/structure/types/manage/nbvt_project/display/jse_json"
+            "data-background-image": "resources/jse-manage-display.png"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl"
+            "data-background-image": "resources/jse-output.png"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/config/system/jse"
+            "data-background-image": "resources/jse-rename.png"
         }
     },
     "drupal-data-2.md",
@@ -86,7 +86,7 @@
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-iframe": "http://nbvt.daniel/admin/structure/types/manage/nbvt_blog/display/entity2md"
+            "data-background-image": "resources/entity2md.png"
         }
     },
     "entity2md-voorbeeld.md",

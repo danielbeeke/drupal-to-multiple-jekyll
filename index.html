@@ -27,7 +27,14 @@
             link.href = window.location.search.match( /print-pdf/gi ) ? 'bower_components/reveal.js/css/print/pdf.css' : 'bower_components/reveal.js/css/print/paper.css';
             document.getElementsByTagName( 'head' )[0].appendChild( link );
         </script>
+        <script
+                src="https://code.jquery.com/jquery-2.2.3.min.js"
+                integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="
+                crossorigin="anonymous"></script>
 
+        <script type="text/javascript">!function(){"use strict";function e(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function t(e){return window.localStorage&&localStorage.font_css_cache&&localStorage.font_css_cache_file===e}function n(){if(window.localStorage&&window.XMLHttpRequest)if(t(o))c(localStorage.font_css_cache);else{var n=new XMLHttpRequest;n.open("GET",o,!0),e(n,"load",function(){4===n.readyState&&(c(n.responseText),localStorage.font_css_cache=n.responseText,localStorage.font_css_cache_file=o)}),n.send()}else{var a=document.createElement("link");a.href=o,a.rel="stylesheet",a.type="text/css",document.getElementsByTagName("head")[0].appendChild(a),document.cookie="font_css_cache"}}function c(e){var t=document.createElement("style");t.innerHTML=e,document.getElementsByTagName("head")[0].appendChild(t)}var o="/css/font.css";window.localStorage&&localStorage.font_css_cache||document.cookie.indexOf("font_css_cache")>-1?n():e(window,"load",n)}();</script><noscript><link rel="stylesheet" href="/css/font.css"></noscript>
+        <script src="https://use.typekit.net/xdi5hcn.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <!--[if lt IE 9]>
         <script src="bower_components/reveal.js/lib/js/html5shiv.js"></script>
         <![endif]-->
@@ -250,7 +257,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-output.png" ></section>
 
 
                     
@@ -266,7 +273,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/jse" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-overview.png" ></section>
 
 
                     
@@ -274,7 +281,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/jse/manage/projects" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-path.png" ></section>
 
 
                     
@@ -282,7 +289,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/types/manage/nbvt_project/display/jse_json" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-manage-display.png" ></section>
 
 
                     
@@ -290,7 +297,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/api/v1/projects?microsite=appelsenperen.nl" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-output.png" ></section>
 
 
                     
@@ -298,7 +305,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/config/system/jse" ></section>
+    <section data-background-color="white" data-background-image="resources/jse-rename.png" ></section>
 
 
                     
@@ -322,7 +329,7 @@
                 
                     
                         
-    <section data-background-color="white" data-background-iframe="http://nbvt.daniel/admin/structure/types/manage/nbvt_blog/display/entity2md" ></section>
+    <section data-background-color="white" data-background-image="resources/entity2md.png" ></section>
 
 
                     
@@ -626,6 +633,7 @@
                 { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( '[data-html]' ) || !!document.querySelector( 'pre code' ) || !!document.querySelector( '[data-markdown]' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
                 { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true },
                 { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true },
+                { src: 'js/fix-iframes.js', async: true },
                 { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
             ]
           });
