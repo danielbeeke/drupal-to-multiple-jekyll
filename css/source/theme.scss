@@ -74,6 +74,43 @@ h1, h2, h3, h4 {
 	}
 }
 
+.image-header,
+h1.image-header  {
+	background-color: rgba($linkColor, .9);
+	padding: 30px;
+	font-weight: 100 !important;
+	color: black !important;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.image-header {
+	h1 {
+		padding-top: 20px;
+		color: black !important;
+	}
+}
+
+.image-header ul {
+	padding: 40px;
+	margin: 0 !important;
+}
+
+.image-header li {
+	list-style: none;
+}
+
+#onze-oplossingsrichting-alternatieven,
+#jekyll-is-weinig-meer-dan-content-die-door-de-templates-omgevormt-wordt-tot-html- {
+	background-color: white;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: 100 !important;
+	line-height: 80px;
+	padding: 30px;
+	color: black !important;
+}
+
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------

@@ -1,3 +1,1 @@
-## Liquid templates
-
-Jekyll is weinig meer dan content die door de templates heen geperst worden.
+## Jekyll is weinig meer dan content, die door de templates omgevormt wordt tot HTML.
