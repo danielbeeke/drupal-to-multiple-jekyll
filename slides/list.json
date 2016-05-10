@@ -28,7 +28,14 @@
     "inhoudsopgave-2.md",
     "introductie-klantvraag.md",
     "ons-idee.md",
-    "de-gekozen-oplossingsrichting-en-alternatieven.md",
+    {
+        "filename": "de-gekozen-oplossingsrichting-en-alternatieven.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/ideas.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "drupal-jekyll.md",
     "alternatieven.md",
     "inhoudsopgave-3.md",
@@ -38,47 +45,68 @@
             "data-background-iframe": "http://kozijnenvanhout.nl/voordelen/"
         }
     },
-    "demo.md",
+    {
+        "filename": "demo.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/demo.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "inhoudsopgave-4.md",
     "architectuur.md",
+    {
+        "filename": "drupal-data-plaat.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/warehouse.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "drupal-data.md",
     "jse.md",
     "jse-url.md",
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-output.png"
+            "data-background-image": "resources/jse-output.png",
+            "data-background-size": "contain"
         }
     },
     "jse-hook.md",
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-overview.png"
+            "data-background-image": "resources/jse-overview.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-path.png"
+            "data-background-image": "resources/jse-path.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-manage-display.png"
+            "data-background-image": "resources/jse-manage-display.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-output.png"
+            "data-background-image": "resources/jse-output.png",
+            "data-background-size": "contain"
         }
     },
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/jse-rename.png"
+            "data-background-image": "resources/jse-rename.png",
+            "data-background-size": "contain"
         }
     },
     "drupal-data-2.md",
@@ -86,7 +114,8 @@
     {
         "attr": {
             "data-background-color": "white",
-            "data-background-image": "resources/entity2md.png"
+            "data-background-image": "resources/entity2md.png",
+            "data-background-size": "contain"
         }
     },
     "entity2md-voorbeeld.md",
@@ -96,14 +125,29 @@
         "attr": {
             "data-background-color": "white",
             "data-background": "resources/channel-picker.png",
-            "data-background-size": "auto"
+            "data-background-size": "contain"
         }
     },
     "hoe-dan-2.md",
+    {
+        "filename": "jekyll-plaat.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/jekyll.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "jekyll-list.md",
     "jekyll-collection.md",
     "jekyll-list-2.md",
-    "liquid-over.md",
+    {
+        "filename": "liquid-over.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/drukpers.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "liquid.md",
     "liquid-over-2.md",
     "jekyll-list-3.md",
@@ -112,6 +156,14 @@
     "wat-is-grunt.md",
     "jekyll-grunt-en-wat-php-scriptjes.md",
     "hoe-dan-3.md",
+    {
+        "filename": "drupal-events-plaat.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/spaghetti-junction.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "drupal-events-flow.md",
     "drupal-hooks.md",
     "drupal-events-flow-2.md",
@@ -120,6 +172,14 @@
     "skeleton-2.md",
     "skeleton.md",
     "hoe-dan-4.md",
+    {
+        "filename": "build-plaat.md",
+        "attr": {
+            "data-background-color": "white",
+            "data-background": "resources/robot.jpg",
+            "data-background-size": "cover"
+        }
+    },
     "build-server-list.md",
     "interactive.svg",
     "inhoudsopgave-5.md",
