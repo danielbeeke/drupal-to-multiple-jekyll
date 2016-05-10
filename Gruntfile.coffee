@@ -129,7 +129,6 @@ module.exports = (grunt) ->
     grunt.registerTask 'test',
         '*Lint* javascript and coffee files.', [
             'coffeelint'
-            'jshint'
         ]
 
     grunt.registerTask 'serve',
