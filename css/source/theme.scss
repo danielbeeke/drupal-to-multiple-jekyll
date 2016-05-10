@@ -15,11 +15,6 @@
 @import "../../bower_components/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
-
-// Include theme-specific fonts
-@import url('fonts');
-
-
 // Override theme settings (see ../../bower_components/reveal.js/css/theme/template/settings.scss)
 $backgroundColor: #54575a;
 
@@ -27,8 +22,8 @@ $mainColor: #ccc;
 $headingColor: #fff;
 
 $mainFontSize: 38px;
-$mainFont: "Aktiv Grotesk",sans-serif;
-$headingFont: "Aktiv Grotesk",sans-serif;
+$mainFont: "aktiv-grotesk",sans-serif;
+$headingFont: "aktiv-grotesk",sans-serif;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
